@@ -68,12 +68,13 @@
 ###
 
 <div align="center">
-  <p align="center">communication</p>
+  
 <img src="https://user-images.githubusercontent.com/112483091/187425702-72de783a-c79b-4c42-949b-46f78778d95a.svg" , alt="Just for Fun :D">
 </div>
 <br clear="both">
 
 <div align="center">
+  <p align="center">communication</p>
   <a href="https://discord.com/shayan.0916" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
