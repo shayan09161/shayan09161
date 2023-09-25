@@ -73,7 +73,7 @@
 <br clear="both">
 
 ###
- <p align="center">communication</p>
+ <h3 align="center">communication</h3>
  
 <div align="center">
   <a href="https://discord.com/shayan.0916" target="_blank">
