@@ -72,7 +72,7 @@
 </div>
 <br clear="both">
 
-<h3>
+<hr>
   
 ###
  <h3 align="center"> *communication*</h3>
