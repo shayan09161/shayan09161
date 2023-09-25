@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">My name is ABdoullah Ghahramani tabar and I'm i 'm a web developer, from * Iran *</p>
+<p align="left">My name is ABdoullah Ghahramani tabar and  i'm a web developer, from * Iran *</p>
 
 ###
 
@@ -72,4 +72,10 @@
   </a>
 </div>
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
