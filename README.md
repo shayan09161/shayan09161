@@ -21,6 +21,17 @@
 <h2 align="left">I code with</h2>
 
 ###
+<div align="center">
+🔥   My Stats :</h3>
+
+
+
+
+  <img src="https://streak-stats.demolab.com?user=shayan09161&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
@@ -74,14 +85,4 @@
   </a>
 </div>
 
-###
-<div align="center">
-🔥   My Stats :</h3>
 
-###
-
-
-  <img src="https://streak-stats.demolab.com?user=shayan09161&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
