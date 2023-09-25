@@ -79,7 +79,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=raharz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raharz&theme=dark&hide_border=false)<br/>
 <h3 align="left">🔥   My Stats :</h3>
-
+</div>
 ###
 
 <div align="center">
