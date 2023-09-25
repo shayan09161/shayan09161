@@ -72,6 +72,8 @@
 </div>
 <br clear="both">
 
+<HL>
+  
 ###
  <h3 align="center"> *communication*</h3>
  
