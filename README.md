@@ -6,7 +6,8 @@
 
 <br clear="both">
 
-<p align="left">My name is ABdoullah Ghahramani tabar and  i'm a web developer, from * Iran *</p>
+<p align="left">My name is ABdoullah Ghahramani tabar and  i'm a web developer, from * Iran *
+. interest in computer and design as well as the play and the world 's intellectual mysteries</p>
 
 ###
 
